@@ -1,0 +1,10 @@
+(function()) {
+"use strict";
+//
+function greetme(maiko){
+    alert("hola " + maiko);
+}
+
+greetme("Mundo");
+//
+})();
